@@ -1,4 +1,4 @@
-# 📒 Contact Book
+#  Contact Book
 
 A command-line contact management app built in Python.
 
@@ -53,4 +53,4 @@ Enter the number of the option you want and follow the prompts.
 - How to save and load data using JSON
 - How to build a menu-driven command-line app
 ## More
-- I didnt use any AI for this code, I only needed it for the readme, cause I never created one before
+- AI used for creating README
